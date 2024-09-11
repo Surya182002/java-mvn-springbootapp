@@ -1,1 +1,1 @@
-This project is Forked from loksai trainer and using for training purpose
+This project is Forked from loksai trainer and used for training purpose
